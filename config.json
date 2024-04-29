@@ -1,0 +1,27 @@
+{
+  "RegisterMandate_Req": {
+    "Body": {
+      "Payload": {
+        "referenceNumber": "167906",
+        "utilityCode": "IDIB00290000026898",
+        "categoryCode": "L002",
+        "schmNm": "TWO-WHEELER-LOAN",
+        "consRefNo": "LN1507927",
+        "seqTp": "RCUR",
+        "frqcy": "MNTH",
+        "frstColltnDt": "2021-10-25",
+        "fnlColltnDt": "2030-10-25",
+        "amountTp": "MAXA",
+        "colltnAmt": 101,
+        "dbtrNm": "Jane Doe",
+        "phone": "null",
+        "mobile": "9887612345",
+        "email": "suma@gmail.com",
+        "pan": "ABCDE0011A",
+        "bnkId": "HDFC",
+        "dbtrAccTp": "SAVINGS",
+        "dbtrAccNo": "536875gh6"
+      }
+    }
+  }
+}
